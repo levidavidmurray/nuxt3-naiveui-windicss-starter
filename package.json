@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@vueuse/nuxt": "^9.3.1",
+    "nuxt": "3.0.0-rc.12",
+    "nuxt-icon": "^0.1.6",
+    "unplugin-vue-components": "^0.22.8"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.1.124",
+    "naive-ui": "^2.33.5",
+    "nuxt-windicss": "^2.5.2"
+  }
+}
